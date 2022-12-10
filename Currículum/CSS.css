@@ -1,0 +1,70 @@
+#Parte1{
+    background-color: #B00000   ;
+    float: left;
+    width: 300px;
+    height: 850px;
+    border-color: black;
+}
+
+#Parte2{
+    background-color: beige;
+    float: left;
+    width: 1033px;
+    height: 850px;
+}
+
+#mia{
+    width: 280px;
+    height: 150px;
+}
+
+#RD{
+    width: 200px;
+    height: 100px;
+}
+
+#USA{
+    width: 200px;
+    height: 100px;
+}
+
+hr{
+    height: 5px;
+    background-color: black;
+}
+
+#a{
+    height:3px;
+    background-color: black;
+}
+
+#LOL{
+    width: 250px;
+    height: 110px;
+   
+}
+
+#SMITE{
+    width: 250px;
+    height: 110px;
+    
+}
+
+#ML{
+    width: 250px;
+    height: 110px;
+    
+}
+
+#b{
+    background-color: #B0B0B0 ;
+}
+
+#c{
+    color:white;
+}
+
+#l{
+    height: 2px;
+    background-color: black;
+}
